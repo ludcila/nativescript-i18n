@@ -1,4 +1,12 @@
-# nativescript-i18n
+# nativescript-i18n-tns2
+
+**Important**
+
+This is a fork of the [nativescript-i18n](https://www.npmjs.com/package/nativescript-i18n) package. This fork is meant to continue support for Nativescript versions prior to 3.0, which introduced breaking changes.
+
+All credits to the original author [@rborn](https://www.npmjs.com/~rborn).
+
+---
 
 This is a plugin for Nativescript that implements **i18n** in an easy manner.
 
